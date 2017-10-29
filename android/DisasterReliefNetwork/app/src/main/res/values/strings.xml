@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Disaster Relief Network</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">SPaMo4BqMrz02pokDrWVy96GK</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">01cfPNH0hkba8SIzgOQ96M5pDj1itJmTy41IiYpvSOYEu6vXll</string>
 </resources>
